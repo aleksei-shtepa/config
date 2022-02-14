@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "security.workspace.trust.enabled": false,
+    "editor.rulers": [
+        80, 120
+    ],
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.defaultTimeFormat": "hh:mm:ss",
+    "gitlens.defaultDateShortFormat": "YYYY-MM-DD",
+    "gitlens.defaultDateFormat": "YYYY-MM-DD hh:mm:ss",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "cSpell.language": "en,ru"
+}
